@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+button {
+    padding: 2.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: bisque;
+    color:black;
+    border: 1px solid slateblue;
+    border-radius: 0.75rem;
+}
+
+#number {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+
+p {
+    font: 2rem;
+}
