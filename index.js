@@ -7,3 +7,4 @@ function increment() {
 function decrement() {
     document.getElementById("number").innerHTML = number--
 }
+
